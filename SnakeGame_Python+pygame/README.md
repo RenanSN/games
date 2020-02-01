@@ -3,7 +3,7 @@
   <img alt="GitHub stars" src="https://img.shields.io/badge/PYTHON-v3.7-blue?style=for-the-badge">
  </a>
 
-# SnakeGame_Python <img src="https://img.icons8.com/dusk/36/000000/python.png">
+# SnakeGame_Python+pygame <img src="https://img.icons8.com/dusk/36/000000/python.png">
 ```markdown
 jogo da cobrinha em python usando a lib pygame
 ```
