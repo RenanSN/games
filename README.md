@@ -5,5 +5,5 @@
 
 # Games
 
-**_Snake Game_ > _Python_ + _pygame_ >>** [_Repositório_](https://github.com/RenanSN/games/tree/master/SnakeGame_Python)
+**_Snake Game_ > _Python_ + _pygame_ >>** [_Repositório_](https://github.com/RenanSN/games/tree/master/SnakeGame_Python%2Bpygame)
 
